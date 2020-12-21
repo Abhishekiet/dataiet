@@ -35,7 +35,20 @@
       "price" : "200Rs"
     }
   ],
-  "profile": {
-    "name": "Profile 1"
-  }
+  "artist": [
+    {
+      "id": 1,
+      "title": "Aakshank",
+      "madeby": " Abhishk Dameria" ,
+      "contact": "9131039984",
+      "branch" : "4th Year ,It-B" ,
+    },
+    {
+      "id": 1,
+      "title": "Aakshank",
+      "madeby": " Abhishk Dameria" ,
+      "contact": "9131039984",
+      "branch" : "4th Year ,It-B" ,
+    }
+  ]
 }
