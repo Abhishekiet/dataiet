@@ -17,7 +17,7 @@
       "passes" : "200Rs"
     }
   ],
-  "comments": [
+  "exchange": [
    {
       "id": 1,
       "title": "Calculator",
