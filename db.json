@@ -18,15 +18,21 @@
     }
   ],
   "comments": [
-    {
+   {
       "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "title": "Calculator",
+      "description": " Add rice and stir very gently to distribute. Top with artichokes and peppers, and cook without stirring, until most of the liquid is absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved shrimp and mussels, tucking them down into the rice, and cook again without stirring, until mussels have opened and rice is just tender, 5 to 7 minutes more. (Discard any mussels that don’t open.) " ,
+      "name": "Abhishek Dameria",
+      "contact" : "9131039984" ,
+      "price" : "200Rs"
     },
     {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
+      "id": 1,
+      "title": "Calculator",
+      "description": " Add rice and stir very gently to distribute. Top with artichokes and peppers, and cook without stirring, until most of the liquid is absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved shrimp and mussels, tucking them down into the rice, and cook again without stirring, until mussels have opened and rice is just tender, 5 to 7 minutes more. (Discard any mussels that don’t open.) " ,
+      "name": "Abhishek Dameria",
+      "contact" : "9131039984" ,
+      "price" : "200Rs"
     }
   ],
   "profile": {
