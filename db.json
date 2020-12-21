@@ -1,20 +1,21 @@
 {
-  "posts": [
+  "Events": [
     {
       "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "title": "Aakshank",
+      "description": " Add rice and stir very gently to distribute. Top with artichokes and peppers, and cook without stirring, until most of the liquid is absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved shrimp and mussels, tucking them down into the rice, and cook again without stirring, until mussels have opened and rice is just tender, 5 to 7 minutes more. (Discard any mussels that don’t open.) "
+      "place": "IET-DAVV Ground",
+      "date" : "2 Feb 2020" ,
+      "passes" : "200Rs"
     },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+   {
+      "id": 1,
+      "title": "Aakshank",
+      "description": " Add rice and stir very gently to distribute. Top with artichokes and peppers, and cook without stirring, until most of the liquid is absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved shrimp and mussels, tucking them down into the rice, and cook again without stirring, until mussels have opened and rice is just tender, 5 to 7 minutes more. (Discard any mussels that don’t open.) "
+      "place": "IET-DAVV Ground",
+      "date" : "2 Feb 2020" ,
+      "passes" : "200Rs"
     },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
   ],
   "comments": [
     {
