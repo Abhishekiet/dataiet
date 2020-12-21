@@ -37,16 +37,17 @@
   ],
   "artit": [
     {
-      "id": 1,
-      "title": "Photograph",
-      "madeby": " Abhishek Dameria" ,
-      "contact": "IET-DAVV Ground",
+      "id" : 1,
+      "title" : "Photograph",
+      "madeby" : " Abhishek Dameria" ,
+      "contact" : "IET-DAVV Ground",
       "branch" : "4TH Year It-B" 
     },
-   "id": 1,
-      "title": "Photograph",
-      "madeby": " Abhishek Dameria" ,
-      "contact": "IET-DAVV Ground",
+    {
+      "id" : 1,
+      "title" : "Photograph",
+      "madeby" : " Abhishek Dameria" ,
+      "contact" : "IET-DAVV Ground",
       "branch" : "4TH Year It-B" 
     }
   ],
