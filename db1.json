@@ -1,1 +1,84 @@
-
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Aakshank",
+      "description": " The annual cultural festival of Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya held roughly across end week of February. The first edition of these events was held in year 2000 and every year since then it is regularly getting upgraded, attaining both participation and popularity. IET had also organized rock concerts of many celebrities such as Kailash Kher, KK (singer), Euphoria (Indian band), gajendra verma, agni band, Nikhil D'Souza" ,
+      "place": "IET-DAVV Ground",
+      "date" : "2 Jan 2020" ,
+      "passes" : "200Rs"
+    },
+   {
+      "id": 2,
+      "title": "ISC",
+      "description": " At an intercollegiate debate competition, there are teams from many schools competing against each other. You'll almost always find the adjective intercollegiate describing sports, or occasionally scholarly rivalries, between colleges or universities.",
+      "place": "Football Ground, DAVV",
+      "date" : "2 Feb 2020" ,
+      "passes" : "150Rs"
+    } ,
+     {
+      "id": 3,
+      "title": "Enginners Day",
+      "description": " The Engineering Community across India is celebrating Engineers Day on 15 September every year as a remarkable tribute to the greatest Indian Engineer Bharat Ratna Mokshagundam Visvesvaraya (popularly known as Sir MV). ... Role of Engineers in developing India was the theme of the event." ,
+      "place": "Auditorium , DAVV",
+      "date" : "15 Sept 2020" ,
+      "passes" : "Free"
+    },
+     {
+      "id": 4,
+      "title": "Mirdaksh",
+      "description": " The buzz around college was that a new fashion designer was making her debut, so I didn’t want to miss this event. As I entered the venue area, there was huge banner which was hanging by the wall and boldly stated the name of the event as ‘Glitz-The Fashion Show’. The fashion show atmosphere was filled with glamorous music. There was a fragrance of sandalwood throughout the room and the room was strategically arranged with numbering on each seat. Decoration elements were all over the place." ,
+      "place": "Auditorium ,Davv",
+      "date" : "2 March 2020" ,
+      "passes" : "200Rs"
+    },
+     {
+      "id": 5,
+      "title": "Vaani - Sound Night ",
+      "description": " The evening had a pulsating start with an audio-visual presentation about Rahman that included a display of graphics on the LED panels against the background score of Lose Control. But Rahman was in total control of the proceedings.though most of the songs were in Malayalam and Tamil, the Oscar-winner laced the three-hour show with some of his popular Bollywood songs, too. But then, who could complain, as music transcends all language barriers and has only to be experienced" ,
+      "place": "IET-DAVV Ground",
+      "date" : "15 April 2020" ,
+      "passes" : "200Rs"
+    } ,
+     {
+      "id": 6,
+      "title": "Chess Competion",
+      "description": " nter House Chess competition was held from 09thMay to 11thMay 2018 at IET-DAVV, Kailash Colony. The participants showed great enthusiasm and thoroughly enjoyed playing Chess. The matches clearly brought forth the eagerness with which our students werebuilding their skills in Chess" ,
+      "place": "E-Block , IET-DAVV",
+      "date" : "2 May 2020" ,
+      "passes" : "200Rs"
+    },
+   {
+      "id": 7,
+      "title": "Inter Hostel League",
+      "description": " Hostel Premier League 2020 (Inter Hostel Badminton Tournament) was organized by KIIT Hostel from  1st February to 6th February, 2020 at Indoor Sports Complex, Campus 12. In this tournament, a total of 14 teams participated from various Boys’ Hostel",
+      "place": "Football Ground, DAVV",
+      "date" : "27 May 2020" ,
+      "passes" : "150Rs"
+    } ,
+     {
+      "id": 8,
+      "title": "Enginners Day",
+      "description": " The Engineering Community across India is celebrating Engineers Day on 15 September every year as a remarkable tribute to the greatest Indian Engineer Bharat Ratna Mokshagundam Visvesvaraya (popularly known as Sir MV). ... Role of Engineers in developing India was the theme of the event." ,
+      "place": "Auditorium , DAVV",
+      "date" : "15 Sept 2020" ,
+      "passes" : "Free"
+    },
+     {
+      "id": 9,
+      "title": "Mirdaksh",
+      "description": " The buzz around college was that a new fashion designer was making her debut, so I didn’t want to miss this event. As I entered the venue area, there was huge banner which was hanging by the wall and boldly stated the name of the event as ‘Glitz-The Fashion Show’. The fashion show atmosphere was filled with glamorous music. There was a fragrance of sandalwood throughout the room and the room was strategically arranged with numbering on each seat. Decoration elements were all over the place." ,
+      "place": "Auditorium ,Davv",
+      "date" : "2 March 2020" ,
+      "passes" : "200Rs"
+    },
+     {
+      "id": 10,
+      "title": "Vaani - Sound Night ",
+      "description": " The evening had a pulsating start with an audio-visual presentation about Rahman that included a display of graphics on the LED panels against the background score of Lose Control. But Rahman was in total control of the proceedings.though most of the songs were in Malayalam and Tamil, the Oscar-winner laced the three-hour show with some of his popular Bollywood songs, too. But then, who could complain, as music transcends all language barriers and has only to be experienced" ,
+      "place": "IET-DAVV Ground",
+      "date" : "15 April 2020" ,
+      "passes" : "200Rs"
+    }
+  ]
+}
