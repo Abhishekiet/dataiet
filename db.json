@@ -84,20 +84,44 @@
   "exchange": [
    {
       "id": 1,
-      "title": "Calculator",
-      "description": " Add rice and stir very gently to distribute. Top with artichokes and peppers, and cook without stirring, until most of the liquid is absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved shrimp and mussels, tucking them down into the rice, and cook again without stirring, until mussels have opened and rice is just tender, 5 to 7 minutes more. (Discard any mussels that don’t open.) " ,
+      "title": " Calculator ",
+      "description": " HP used to make the very best scientific calculators, so good in fact, that their used legacy scientifics go for much more than the original prices in almost all cases. However, today HP only makes one engineering calculator (HP Prime, although it’s a grapher), but HP does not make scientific calculators anymore" ,
       "name": "Abhishek Dameria",
       "contact" : "9131039984" ,
       "price" : "200Rs"
     },
     {
-      "id": 1,
-      "title": "Calculator",
-      "description": " Add rice and stir very gently to distribute. Top with artichokes and peppers, and cook without stirring, until most of the liquid is absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved shrimp and mussels, tucking them down into the rice, and cook again without stirring, until mussels have opened and rice is just tender, 5 to 7 minutes more. (Discard any mussels that don’t open.) " ,
-      "name": "Abhishek Dameria",
-      "contact" : "9131039984" ,
+      "id": 2,
+      "title": "Camera",
+      "description": " ‘Camera obscura’ is Latin for dark room - a dark room with a small hole is one wall - a hole that lets in the light from outside and focuses it on the opposite wall.From there, an artist could put a canvas on the wall and trace the outline - and make the correct propositions for his painting.Then came methods to improve the hole in the wall (the lens), to reduce the size of the room until it became a box, and to ‘trap’ the light (the film) permanently. " ,
+      "name": "Abhay Agrawal",
+      "contact" : "damriaabhishek6@gmail.com" ,
+      "price" : "1000Rs"
+    } ,
+    {
+      "id": 3,
+      "title": " Sound System ",
+      "description": " For those with a clear sense of who they are and what they like, choosing headphones with style for casual listening should be easier. Designing this series all began with the idea of investing our audio expertise into new headphones that simplify this choice. " ,
+      "name": "Nimesh Sati",
+      "contact" : "9131039484" ,
+      "price" : "250Rs"
+    },
+    {
+      "id": 4,
+      "title": " Campass ",
+      "description": " tortoise yantra with awesome polish finish compass this compass shows all direction east, west, north, south. Collectible nautical marine & maritime brass compass this marine compass engraved with frontthe beatle finder 1964 lid engraved with cover on a sunny day beautiful history." ,
+      "name": "Kuldeep Bhagel",
+      "contact" : "913103154" ,
       "price" : "200Rs"
-    }
+    },
+    {
+      "id": 1,
+      "title": " Guitar ",
+      "description": " An electric guitar is a guitar that requires external amplification in order to be heard at typical performance volumes. It uses one or more pickups to convert the vibration of its strings into electrical signals, which ultimately are reproduced as sound by loudspeakers" ,
+      "name": "Kuldeep Bhagel",
+      "contact" : "17bit208@ietdvv2edu.in" ,
+      "price" : "2500
+    },
   ],
   "artist": [
     {
